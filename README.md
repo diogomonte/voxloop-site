@@ -2,7 +2,7 @@
 
 The website for **VoxLoop**, the app that turns your voice into a looping beat.
 
-A static site with no build step: `index.html` (purpose, how it works, tutorial) and `brand.html` (mark, colour, type, voice). Styles live in `assets/styles.css`; colours are the app's own `AppTheme` tokens.
+A static site with no build step: `index.html` (purpose, how it works, tutorial), `brand.html` (mark, colour, type, voice) and `privacy.html` (the app privacy policy linked from Google Play and the App Store). Styles live in `assets/styles.css`; colours are the app's own `AppTheme` tokens.
 
 ## Publish with GitHub Pages
 
